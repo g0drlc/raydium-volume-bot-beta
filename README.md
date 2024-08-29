@@ -1,5 +1,7 @@
 
-# Raydium Volume Bot Version 2
+# Raydium Volume Bot(beta)
+![run-trading-sniper-pump-fun-and-jito-bundle-trading-sandwich-mev-volume (1)](https://github.com/user-attachments/assets/a16e872a-cfee-4d83-9a40-415ef5f51f47)
+
 
 This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
 
